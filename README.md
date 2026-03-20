@@ -14,9 +14,6 @@ This project analyzes AI tool adoption across industries, countries, and user gr
 - Power Query  
 - DAX  
 
-## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
-
 ## 📈 Key Insights
 - High AI adoption across industries  
 - ChatGPT is one of the most used tools  
