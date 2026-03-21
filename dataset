@@ -1,0 +1,7 @@
+## 📂 Dataset  
+The dashboard is built using a Global AI Tool Adoption dataset (2023–2024).
+
+Original source: Kaggle / Public AI Adoption Dataset  
+
+The data was cleaned and transformed using Power Query for better analysis and performance.  
+Only relevant columns and measures were retained to optimize the dashboard.
